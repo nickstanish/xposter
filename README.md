@@ -1,7 +1,7 @@
-# xpost
-xpost is a slack integration for reposting messages to additional channels.
+# xposter
+xposter is a slack integration for reposting messages to additional channels.
 
-- [xpost](#xpost)
+- [xposter](#xposter)
   - [Development](#development)
   - [Docs](#docs)
 
