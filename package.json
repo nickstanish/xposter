@@ -11,7 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "fastify": "^3.12.0",
-    "pm2": "^4.5.4"
+    "pm2": "^4.5.4",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "dotenv": "^8.2.0",
@@ -23,5 +24,9 @@
       "tests/*"
     ],
     "delay": "2500"
+  },
+  "engines": {
+    "node": "14.15.5",
+    "npm": ">=6.14.11"
   }
 }
